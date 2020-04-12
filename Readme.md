@@ -23,7 +23,7 @@ b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8
 **Cevap:** 
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
-**Cevap:** **Yayın ağırlığından yerçekiminden dolayı bir sapma olabilir.**
+**Cevap:** **Yayın ağırlığından ve yerçekiminden dolayı bir sapma olabilir.**
 
 
 
@@ -38,11 +38,11 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 |Kuvvet (N) | Uzanım (m)|
 |-----------|-----------|
-|          |     |
-|          |     |
-|        |     |
-|        |    |
-|        |     |
+|     1.59  |   0.0045  |
+|    6.16  | 0.017    |
+|     9.95  |   0.0245  |
+|      12.35  |    0.029|
+|    15.68    |   0.033  |
 
 6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](   ). 
 
